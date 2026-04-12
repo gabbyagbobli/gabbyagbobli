@@ -38,7 +38,7 @@ I am actively involved in mentoring and growing developer and data science commu
 - Lead and support hands-on workshops and bootcamps through **Google Developer Groups (GDG)**  
 - Former **Google Developer Student Clubs (GDSC) Lead**, mentoring students and guiding technical projects  
 - Support the broader AI community learning through **technical sessions, peer guidance, and project-based learning**
-- Assist and teach both undergraduate and graduate courses in Statistical Computing, Data Mining, and Research Methods. 
+- Assist and teach both undergraduate and graduate courses in **Statistical Computing, Data Mining, and Research Methods** 
 
 ---  
 
