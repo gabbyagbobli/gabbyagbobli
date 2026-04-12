@@ -26,14 +26,7 @@ I actively contribute to the research and AI community through:
 
 ### 🎤 Speaking
 
-I regularly speak at international developer and AI events, sharing practical insights on Cloud AI, Generative AI, and machine learning systems. Some selected talks include:
-
-- **Vertex AI for Agentic Systems: Architectures, Tools, and Best Practices**
-- **Building a sports prediction app using Google AI Studio, Gemini, and Cloud Run** 
-- **Create a Multi-Speaker Podcast with Gemini & Text-to-Speech**  
-- **Explainable AI in Healthcare**  
-- **Multimodality, AI and the Road to AGI**  
-- **Feature Engineering: From Raw Data to Powerful Predictors**  
+I regularly speak at international developer and AI events, sharing practical insights on Cloud AI, Generative AI, and machine learning systems. 
 
 ---
 
@@ -50,8 +43,7 @@ I am actively involved in mentoring and growing developer and data science commu
 
 ## 🚀 What I Do
 
-- 🤖 Build end-to-end AI systems using Vertex AI and Gemini  
-- ☁️ Design cloud-native architectures (Cloud Run, serverless pipelines)  
+- 🤖 Build practical AI solutions using Vertex AI and Gemini on Google Cloud
 - 📊 Apply statistical and machine learning methods to real-world problems  
 - 🎙️ Develop Generative AI applications (multimodal systems, TTS, structured generation)  
 
