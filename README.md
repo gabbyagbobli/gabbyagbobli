@@ -60,19 +60,61 @@ I am actively involved in mentoring and growing developer and data science commu
 ## 🔧 Tech Stack
 
 ### ☁️ Cloud & AI
-- [Google Cloud](https://cloud.google.com/) ( [Vertex AI](https://cloud.google.com/vertex-ai), [Cloud Run](https://cloud.google.com/run), [BigQuery](https://cloud.google.com/bigquery) )
-- [Gemini (Generative AI)](https://deepmind.google/technologies/gemini/)
-- [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech)
+<p>
+  <a href="https://cloud.google.com/">
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  </a>
+  <a href="https://cloud.google.com/vertex-ai">
+    <img src="https://img.shields.io/badge/Vertex%20AI-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  </a>
+  <a href="https://cloud.google.com/run">
+    <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  </a>
+  <a href="https://cloud.google.com/bigquery">
+    <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+  </a>
+  <a href="https://deepmind.google/technologies/gemini/">
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+  <a href="https://cloud.google.com/text-to-speech">
+    <img src="https://img.shields.io/badge/Text--to--Speech-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  </a>
+</p>
 
 ### 🧪 Data Science & ML
-- [Python](https://www.python.org/) ( [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/), [matplotlib](https://matplotlib.org/) )
-- [R](https://www.r-project.org/)
-- [SQL](https://en.wikipedia.org/wiki/SQL)
+<p>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  </a>
+  <a href="https://scikit-learn.org/">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  </a>
+  <a href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  </a>
+  <a href="https://www.r-project.org/">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SQL">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+</p>
 
 ### ⚙️ Tools
-- [SPSS](https://www.ibm.com/products/spss-statistics)
-- [Power BI](https://powerbi.microsoft.com/)
-- [LaTeX](https://www.latex-project.org/)
+<p>
+  <a href="https://www.ibm.com/products/spss-statistics">
+    <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </a>
+  <a href="https://www.latex-project.org/">
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
