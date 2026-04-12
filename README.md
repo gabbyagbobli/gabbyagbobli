@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gabriel Agbobli
+# 👋 Hi, I'm Gabby
 
 **Data Scientist | Cloud AI | Machine Learning for Health**
 
