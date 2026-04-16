@@ -2,7 +2,7 @@
 
 **Data Scientist | Cloud AI | Machine Learning for Health**
 
-I build practical AI solutions using **Google Cloud**, with a focus on **Generative AI, real-time systems, and applied machine learning for health and data-driven decision-making**.
+I build and experiment practical AI solutions using **Google Cloud**, with a focus on **Generative AI, real-time systems, and applied machine learning for health and data-driven decision-making**.
 
 My work sits at the intersection of **statistics, machine learning, and healthcare**, where I develop models and systems that move beyond experimentation into real-world impact. I have a strong foundation in statistics and ongoing research in **cancer genomics, survival analysis, and interpretable machine learning**, with a focus on building robust, explainable, and reproducible solutions.
 
@@ -44,9 +44,9 @@ I am actively involved in mentoring and growing developer and data science commu
 
 ## 🚀 What I Do
 
-- 🤖 Build practical AI solutions using Vertex AI and Gemini on Google Cloud
+- 🤖 Build and experiment practical AI solutions using Vertex AI and Gemini on Google Cloud
 - 📊 Apply statistical and machine learning methods to real-world problems  
-- 🎙️ Develop Generative AI applications (multimodal systems, TTS, structured generation)  
+- 🎙️ Develop Generative AI applications through Vibe Coding on Google AI Studio and Vertex AI Studio
 
 ---
 
