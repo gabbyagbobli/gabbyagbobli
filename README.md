@@ -19,7 +19,9 @@ I actively contribute to the research and AI community through:
 - 🔍 Serving as a **reviewer for international AI and ML venues**, including:
   - Deep Learning Indaba  
   - Women in Machine Learning (NeurIPS Workshop)  
-  - Southern African Conference for Artificial Intelligence Research (SACAIR)  
+  - Southern African Conference for Artificial Intelligence Research (SACAIR)
+  - Africa Computer Vision Summer School (ACVSS)
+  - Middle East and North Africa (MENA) ML Winter School
 - 🧪 Supporting interdisciplinary research across statistics, health sciences, and AI  
 
 ---
