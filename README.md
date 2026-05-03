@@ -52,7 +52,13 @@ I am actively involved in mentoring and growing developer and data science commu
     <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   </a>
   <a href="https://cloud.google.com/products/gemini-enterprise-agent-platform">
-  <img src="https://img.shields.io/badge/Gemini%20Enterprise%20Agent%20Platform-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gemini%20Enterprise%20Agent%20Platform-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  </a>
+  <a href="https://google.github.io/adk-docs/">
+    <img src="https://img.shields.io/badge/ADK-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+  <a href="https://cloud.google.com/ai/generative-ai">
+    <img src="https://img.shields.io/badge/GenAI-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
   <a href="https://cloud.google.com/run">
     <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
