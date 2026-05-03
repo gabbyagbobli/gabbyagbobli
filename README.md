@@ -2,9 +2,9 @@
 
 **Data Scientist | Cloud AI | Machine Learning for Health**
 
-I build and experiment practical AI solutions using **Google Cloud**, with a focus on **Generative AI, real-time systems, and applied machine learning for health and data-driven decision-making**.
+I build and experiment with practical AI solutions using **Google Cloud**, with a focus on **Generative AI, AI agents, real-time systems, and applied machine learning for health and data-driven decision-making**.
 
-My work sits at the intersection of **statistics, machine learning, and healthcare**, where I develop models and systems that move beyond experimentation into real-world impact. I have a strong foundation in statistics and ongoing research in **cancer genomics, survival analysis, and interpretable machine learning**, with a focus on building robust, explainable, and reproducible solutions.
+My work sits at the intersection of **statistics, ML/AI, and healthcare**, where I develop models and systems that move beyond experimentation into real-world impact. I have a strong foundation in statistics and ongoing research in **cancer genomics, survival analysis, and interpretable machine learning**, with a focus on building robust, explainable, and reproducible solutions.
 
 ---
 
@@ -21,8 +21,8 @@ I actively contribute to the research and AI community through:
   - Women in Machine Learning (NeurIPS Workshop)  
   - Southern African Conference for Artificial Intelligence Research (SACAIR)
   - Africa Computer Vision Summer School (ACVSS)
-  - Middle East and North Africa (MENA) ML Winter School
-- 🧪 Supporting interdisciplinary research across statistics, health sciences, and AI  
+  - Middle East and North Africa (MENA) ML Winter School, etc.
+- 🧪 Supporting interdisciplinary research across statistics, health sciences, and ML/AI  
 
 ---
 
@@ -38,19 +38,11 @@ I am actively involved in mentoring and growing developer and data science commu
 
 - Mentor students and peers in **machine learning, data science, and AI project development**  
 - Lead and support hands-on workshops and bootcamps through **Google Developer Groups (GDG)**  
-- Former **Google Developer Student Clubs (GDSC) Lead**, mentoring students and guiding technical projects  
+- Former **Google Developer Group on Campus (f.k.a Google Developer Student Clubs) Lead**, mentoring students and guiding technical projects  
 - Support the broader AI community learning through **technical sessions, peer guidance, and project-based learning**
-- Assist and teach both undergraduate and graduate courses in **Statistical Computing, Data Mining, and Research Methods** 
+- Assist and teach both undergraduate and graduate courses in **Statistical Computing, Data Mining, Operations Research & Optimization, Sampling Theory, Design of Experiments, Official Statistics, and Research Methods** 
 
 ---  
-
-## 🚀 What I Do
-
-- 🤖 Build and experiment practical AI solutions using Vertex AI and Gemini on Google Cloud
-- 📊 Apply statistical and machine learning methods to real-world problems  
-- 🎙️ Develop Generative AI applications through Vibe Coding on Google AI Studio and Vertex AI Studio
-
----
 
 ## 🔧 Tech Stack
 
@@ -59,7 +51,7 @@ I am actively involved in mentoring and growing developer and data science commu
   <a href="https://cloud.google.com/">
     <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   </a>
-  <a href="https://cloud.google.com/vertex-ai">
+  <a href="https://cloud.google.com/products/gemini-enterprise-agent-platform">
     <img src="https://img.shields.io/badge/Vertex%20AI-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   </a>
   <a href="https://cloud.google.com/run">
