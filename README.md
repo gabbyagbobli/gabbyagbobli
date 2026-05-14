@@ -1,48 +1,23 @@
 # 👋 Hi, I'm Gabby
 
-**Data Scientist | Cloud AI | Machine Learning for Health**
+**Google Developer Expert (GDE) for Google Cloud (Cloud AI) | Data Scientist | ML Engineer**
 
-I build and experiment with practical AI solutions using **Google Cloud**, with a focus on **Generative AI, AI agents, real-time systems, and applied machine learning for health and data-driven decision-making**.
+I build practical AI and machine learning solutions using Google Cloud, with interests in Generative AI, AI agents, real-time systems, and machine learning for health.
 
-My work sits at the intersection of **statistics, ML/AI, and healthcare**, where I develop models and systems that move beyond experimentation into real-world impact. I have a strong foundation in statistics and ongoing research in **cancer genomics, survival analysis, and interpretable machine learning**, with a focus on building robust, explainable, and reproducible solutions.
-
----
-
-## 🌍 Contributions
-
-### 🧠 Research, Writing & Review
-
-I actively contribute to the research and AI community through:
-
-- 🧬 Research in **machine learning for health data**, including cancer genomics and survival modelling  
-- 📄 Writing and contributing to **peer-reviewed research in applied machine learning and computational intelligence**  
-- 🔍 Serving as a **reviewer for international AI and ML venues**, including:
-  - Deep Learning Indaba  
-  - Women in Machine Learning (NeurIPS Workshop)  
-  - Southern African Conference for Artificial Intelligence Research (SACAIR)
-  - Africa Computer Vision Summer School (ACVSS)
-  - Middle East and North Africa (MENA) ML Winter School, etc.
-- 🧪 Supporting interdisciplinary research across statistics, health sciences, and ML/AI  
+My work combines statistics, AI/ML, and healthcare research, with experience in cancer genomics, survival analysis, and interpretable machine learning. I also contribute to the AI community through research, speaking, mentorship, and developer advocacy.
 
 ---
 
-### 🎤 Speaking
+## 🌍 What I Do
 
-I regularly speak at international developer and AI events, sharing practical insights on Cloud AI, Generative AI, and machine learning systems. 
+- ☁️ Google Cloud & Generative AI  
+- 🤖 AI Agents & Agentic Systems  
+- 📊 Data Science & Applied Machine Learning  
+- 🧬 ML for Healthcare & Cancer Research  
+- 🎤 Technical Speaking & Community Mentorship  
+- 📄 Research, Reviewing & Developer Education  
 
 ---
-
-### 🤝 Mentorship & Community
-
-I am actively involved in mentoring and growing developer and data science communities:
-
-- Mentor students and peers in **machine learning, data science, and AI project development**  
-- Lead and support hands-on workshops and bootcamps through **Google Developer Groups (GDG)**  
-- Former **Google Developer Group on Campus (f.k.a Google Developer Student Clubs) Lead**, mentoring students and guiding technical projects  
-- Support the broader AI community learning through **technical sessions, peer guidance, and project-based learning**
-- Assist and teach both undergraduate and graduate courses in **Statistical Computing, Data Mining, Operations Research & Optimization, Sampling Theory, Design of Experiments, Official Statistics, and Research Methods** 
-
----  
 
 ## 🔧 Tech Stack
 
