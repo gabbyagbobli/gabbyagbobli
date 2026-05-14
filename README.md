@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabby
 
-**Google Developer Expert (GDE) for Google Cloud (Cloud AI) | Data Scientist | ML Engineer**
+### **Google Developer Expert (GDE) for Google Cloud (Cloud AI) | Data Scientist | ML/AI Engineer**
 
 I build practical AI and machine learning solutions using Google Cloud, with interests in Generative AI, AI agents, real-time systems, and machine learning for health.
 
